@@ -1,3 +1,4 @@
-  name = "cartsuri-proxy"
-  main = "worker.js"
-  compatibility_date = "2024-01-01"
+name = "cartsuri"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+workers_dev = true
